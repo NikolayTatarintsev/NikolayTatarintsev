@@ -10,7 +10,7 @@
 - Arduino IDE
 
 OC:
-- Windows, Linux
+- Windows, Linux.
 ___  
 <!---
 NikolayTatarintsev/NikolayTatarintsev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
