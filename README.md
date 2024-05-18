@@ -4,7 +4,7 @@
  ___
 Языки программирования и инструменты:
 - C, C++, Python
-- Eclipse C++, Visual Studio, 
+- Eclipse C++, Visual Studio 
 - STM32CubeIDE, STM32CubeMX, STM32CubeMonitor, STM32CubeProgrammer, System Workbench for STM32, STM32 ST-Link Utility
 - MotorControl Workbench, Motor Profiler
 - Arduino IDE
