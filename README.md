@@ -1,7 +1,3 @@
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXdkdGU4ZHQ2NHZhbGI0cXQ5YzhuNWZ2anhldGUzc29vN2ZsbzNsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width="150"/>
-</div>
-
 #  Николай Иванович Татаринцев (NikolayTatarintsev) 
 - Область интересов: Микропроцессорные средства и системы управления. Микроконтроллеры, IDE, C/C++ … 
 - email: ntatarintsev@yandex.ru
