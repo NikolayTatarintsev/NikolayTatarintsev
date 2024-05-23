@@ -12,6 +12,12 @@
 OC:
 - Windows, Linux.
 ___  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=NikolayTatarintsev&style=flat-square&color=blue" alt=""/>
+
+___
+
 <!---
 NikolayTatarintsev/NikolayTatarintsev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
