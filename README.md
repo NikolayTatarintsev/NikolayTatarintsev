@@ -12,11 +12,9 @@
 OC:
 - Windows, Linux.
 ___  
+![]( https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NikolayTatarintsev)
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=NikolayTatarintsev&style=flat-square&color=blue" alt=""/>
 
-___
 
 <!---
 NikolayTatarintsev/NikolayTatarintsev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
