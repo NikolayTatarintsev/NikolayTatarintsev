@@ -7,7 +7,7 @@
 
 #  Николай Татаринцев (NikolayTatarintsev) 
 - Область интересов: Микропроцессорные средства и системы управления. Микроконтроллеры, IDE, C/C++ … 
-- email: ntatarintsev@yandex.ru
+- e-mail: ntatarintsev@yandex.ru
  ___
 ## Языки программирования и инструменты:
 - C, C++, Python
