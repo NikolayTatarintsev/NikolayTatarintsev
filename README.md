@@ -1,8 +1,8 @@
 # Nikolay Tatarintsev
-- Activities: Microcontrollers, IDE, C/C++... 
+- Act.: Microcontrollers, IDE, C/C++... 
 - e-mail: ntatarintsev@yandex.ru
  ___
-## Programming environments and tools:
+## Software environments and tools:
 - C, C++, Python
 - Eclipse C++, Visual Studio 
 - STM32CubeIDE, STM32CubeMX, STM32CubeMonitor, STM32CubeProgrammer, System Workbench for STM32, STM32 ST-Link Utility
@@ -10,7 +10,7 @@
 - Arduino IDE
 
 ## OC:
-- Windows, Linux.
+- Linux, Windows.
 ___  
 
 
