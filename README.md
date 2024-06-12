@@ -1,8 +1,8 @@
-#  Николай Татаринцев (NikolayTatarintsev) 
-- Область интересов: Микропроцессорные средства и системы управления. Микроконтроллеры, IDE, C/C++ … 
+# Nikolay Tatarintsev
+- Activities: Microcontrollers and control systems, IDE, C/C++... 
 - e-mail: ntatarintsev@yandex.ru
  ___
-## Языки программирования и инструменты:
+## Programming environments and tools:
 - C, C++, Python
 - Eclipse C++, Visual Studio 
 - STM32CubeIDE, STM32CubeMX, STM32CubeMonitor, STM32CubeProgrammer, System Workbench for STM32, STM32 ST-Link Utility
