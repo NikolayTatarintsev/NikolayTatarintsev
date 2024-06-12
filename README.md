@@ -1,5 +1,5 @@
 # Nikolay Tatarintsev
-- Activities: Microcontrollers and control systems, IDE, C/C++... 
+- Activities: Microcontrollers, IDE, C/C++... 
 - e-mail: ntatarintsev@yandex.ru
  ___
 ## Programming environments and tools:
