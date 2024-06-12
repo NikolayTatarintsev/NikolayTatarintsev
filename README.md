@@ -1,10 +1,3 @@
-<div style="display: flex; justify-content: center;"> 
-<img src="https://github.com/NikolayTatarintsev/NikolayTatarintsev/blob/main/head_pic.jpg" alt="Image 1" style="width: 950px; height: auto;">
-
-</div>
-<br>
-
-
 #  Николай Татаринцев (NikolayTatarintsev) 
 - Область интересов: Микропроцессорные средства и системы управления. Микроконтроллеры, IDE, C/C++ … 
 - e-mail: ntatarintsev@yandex.ru
